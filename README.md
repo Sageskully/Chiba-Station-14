@@ -2,7 +2,7 @@
 
 Chiba Station 14 is a fork of [Frontier Station 14]([https://github.com/space-wizards/space-station-14](https://github.com/new-frontiers-14/frontier-station-14) that runs on [Robust Toolbox](https://github.com/space-wizards/RobustToolbox) engine written in C#.
 
-This is the NOT THE primary repo for Frontier Station 14. But a clone to proovide a safe space for clowns to clown around and not get banned for bullshit like "killing and disposing of a Syndicate member trying to blow you up".
+This is the NOT THE primary repo for Frontier Station 14. But a clone to provide a safe space for real rp and not get banned for bullshit like "killing and disposing of a Syndicate member trying to blow you up".
 
 If you want to host or create content for FS14, this is the repo you need. It contains both RobustToolbox and the content pack for development of new content packs.
 
